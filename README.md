@@ -2,9 +2,6 @@
 
 A simple desktop tool for artists and streamers to quickly cut out emotes from a single grid image (spritesheet) and export them to multiple sizes.
 
----
-`![UEC Screenshot](https://github.com/user-attachments/assets/4fff2b9a-f35e-4f14-9403-802e2b6756dc)`
----
 
 ## 🚀 Getting Started
 
